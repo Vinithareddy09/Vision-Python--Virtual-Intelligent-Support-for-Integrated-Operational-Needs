@@ -26,7 +26,11 @@ Vision-Python is an AI-based virtual assistant built using Python that performs 
    ```bash
    git clone https://github.com/Vinithareddy09/Vision-Python--Virtual-Intelligent-Support-for-Integrated-Operational-Needs.git
    cd Vision-Python--Virtual-Intelligent-Support-for-Integrated-Operational-Needs
+   
 Install dependencies:
+
 pip install speechrecognition pyttsx3 wikipedia
+
 Run the assistant:
+
 python vision_assistant.py
